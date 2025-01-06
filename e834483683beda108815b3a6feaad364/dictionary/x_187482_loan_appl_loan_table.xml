@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="53f44cf283feda108815b3a6feaad394" extends="task" label="Loan Table" max_length="40" name="x_187482_loan_appl_loan_table" type="collection">
+        <element attributes="omit_sys_original=true" label="Loan Amount" max_length="20" name="loan_amount" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Loan Number" mandatory="true" max_length="40" name="loan_number" type="string"/>
+    </element>
+</database>

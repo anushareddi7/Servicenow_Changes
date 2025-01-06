@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_187482_loan_appl_loan_table">x_187482_loan_appl_loan_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-03 06:56:37</sys_created_on>
+        <sys_id>b3f48cf283feda108815b3a6feaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LN</sys_name>
+        <sys_package display_value="Loan Application" source="x_187482_loan_appl">e834483683beda108815b3a6feaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Application">e834483683beda108815b3a6feaad364</sys_scope>
+        <sys_update_name>sys_number_b3f48cf283feda108815b3a6feaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-03 06:56:37</sys_updated_on>
+    </sys_number>
+</record_update>
